@@ -1,5 +1,0 @@
-4
-monorail 15.0 Disney Adventure
-highspeed 212.0 Zoomer
-cog 60	Pikes Peak Cog Rail
-lightrail 75.0 Denver RTS
