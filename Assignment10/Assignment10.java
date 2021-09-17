@@ -7,7 +7,6 @@ import java.util.Scanner;
 /**
  * Nick Waggoner
  * Course: Data Structures and Algorithms
- * Mickey Gonzalez
  * Due 4/29/2020 
  * 
  * Description: 
